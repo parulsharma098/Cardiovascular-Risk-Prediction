@@ -62,11 +62,11 @@ The classification goal is to predict whether the patient has a 10-year risk of 
 • **10-year risk of coronary heart disease CHD** - DEPENDANT VARIABLE
 ## STEPS INVOLVED DOING THIS PROJECT:
 
-Import data from dataset and perform initial high-level analysis: look at the number of rows, look at the missing values, look at dataset columns and their values respective to the campaign outcome.
+Import data from dataset and perform initial high-level analysis: look at the number of rows, look at the missing values, look at dataset columns and their values respective to the target variable.
 
 Clean the data: remove irrelevant columns, deal with missing and incorrect values, turn categorical columns into dummy variables.
 
-Use machine learning techniques to predict the marketing campaign outcome and to find out factors, which affect the success of the campaign.
+Use machine learning techniques to predict the Risk of CHDs and to find out factors, which affect target variable.
 
 ### LIST OF CLASSIFICATION MODELS BUILT IN THIS PROJECT:
 | Sr.  |          MODELS             | TEST ACCURACY |
